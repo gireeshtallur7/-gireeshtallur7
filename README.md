@@ -1,5 +1,8 @@
 # Gireesh A Tallur | Data Science Fresher
 ## 🚀 Live Projects
+### Telecom customer churn prediction project app
+🔗 Live App: https://telecom-churn-prediction-gireesh-elixnkuxbcoeywbg7sc94z.streamlit.app/
+📂 GitHub files: 
 
 ### ❤️ Heart Disease Prediction App  
 🔗 Live App: https://heart-app-final-4uotibvoha65jnv5eixw2z.streamlit.app  
