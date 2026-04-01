@@ -1,4 +1,6 @@
-# Gireesh A Tallur | Data Science Fresher
+# Gireesh A Tallur | 
+ Data Science & Machine Learning Enthusiast
+ 
 ## 🚀 Live Projects
 ### Telecom customer churn prediction project app
 🔗 Live App: https://telecom-churn-prediction-gireesh-elixnkuxbcoeywbg7sc94z.streamlit.app/
