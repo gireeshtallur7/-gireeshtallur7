@@ -6,8 +6,11 @@
 📂 GitHub files: https://github.com/gireeshtallur7/telecom-churn-prediction-gireesh
 
 ✔️ Developed ML model to predict customer churn in telecom industry
+
 ✔️ Analyzes customer behavior and service usage patterns
+
 ✔️ Enables data-driven retention strategies for businesses
+
 ✔️ Deployed interactive web app using Streamlit
 
 
