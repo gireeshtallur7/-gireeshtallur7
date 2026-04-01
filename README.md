@@ -23,16 +23,26 @@
 ✔️ End-to-end deployment on cloud  
 
 # 💫 About Me:
-Hi, I’m Gireesh Tallur <br><br>I am a Data Science fresher with a strong academic background and hands-on experience in data analysis, AI-driven data quality, and business intelligence. I have completed a Data Science and Machine Learning program and hold certifications from IBM, Rooman Technologies, and government-recognized bodies (NCVET/PMKVY).<br><br>I have practical experience working with Python, SQL, Pandas, NumPy, Excel, and data visualization tools like Power BI and Matplotlib. Through internships and projects, I have worked on data cleaning, preprocessing, exploratory data analysis, and improving data accuracy in CRM systems.<br><br>I am actively seeking entry-level Data Scientist or Data Analyst opportunities where I can apply my analytical skills, continue learning, and contribute to data-driven decision-making.<br>
-
-## 🚀 About Me
 
 Hi, I'm **Gireesh Tallur**
 
 🎯 I am a Data Science enthusiast with strong hands-on experience in building Machine Learning and AI-based solutions.
 
-🔥 **Completed 8–9 months intensive Data Science & Gen-AI program from AnalytixLabs, Bangalore (HSR Layout, Sector 6)**  
+ **Completed 8–9 months intensive Data Science & Gen-AI program from AnalytixLabs, Bangalore (HSR Layout, Sector 6)**  
 👉 Focused on real-world projects, deployment, and industry-level problem solving  
+
+
+ 📜 Certifications
+
+✔️ **IBM & Rooman Technologies :-  AI- Data Quality Analyst and Business Intelligence Internship**  
+🔗 [View Certificate]([_DRIVE_LINK_ROOMAN_TECHNOLOGIES](https://drive.google.com/file/d/1D83tRb1Vx6OR31a6aRxoh4zsekDji8ax/view?usp=sharing))
+🔗 [View Certificate]([_DRIVE_LINK_IBM_](https://drive.google.com/file/d/19qUrGE_nwlrFcNuvODfFwW5f2yjZrCGb/view?usp=sharing))
+
+✔️ **AnalytixLabs – Data Science & Gen-AI Program (Bangalore, HSR Layout)**  
+
+✔️ **BUSINESS INTELLIGENCE **
+🔗 [View Certificate]([_DRIVE_LINK_NCVET/PMKVY]([https://drive.google.com/file/d/1D83tRb1Vx6OR31a6aRxoh4zsekDji8ax/view?usp=sharing](https://drive.google.com/file/d/1jjgxx629Chb0JyaVjfkRyOZpaO9-4uH7/view?usp=sharing)))
+**(NCVET/PMKVY).**
 
 💡 I have worked on multiple end-to-end projects including:
 - Customer Churn Prediction (ML + Streamlit Deployment)
