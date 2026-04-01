@@ -2,7 +2,9 @@
 ## 🚀 Live Projects
 ### Telecom customer churn prediction project app
 🔗 Live App: https://telecom-churn-prediction-gireesh-elixnkuxbcoeywbg7sc94z.streamlit.app/
+
 📂 GitHub files: https://github.com/gireeshtallur7/telecom-churn-prediction-gireesh
+
 ✔️ Developed ML model to predict customer churn in telecom industry
 ✔️ Analyzes customer behavior and service usage patterns
 ✔️ Enables data-driven retention strategies for businesses
