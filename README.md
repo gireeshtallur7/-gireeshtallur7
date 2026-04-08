@@ -1,6 +1,9 @@
 # Gireesh A Tallur | 
  Data Science & Machine Learning Enthusiast
  
+ My Hosted Portfolio Profile  link  
+                                     🔗 Live App: https://gireeshtallur7.github.io/Gireesh_Tallur.github.io/
+ 
 ## 🚀 Live Projects
 ### Telecom customer churn prediction project app
 🔗 Live App: https://telecom-churn-prediction-gireesh-elixnkuxbcoeywbg7sc94z.streamlit.app/
