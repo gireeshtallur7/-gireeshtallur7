@@ -20,7 +20,7 @@ Hi, I'm **Gireesh Tallur**
 
  ✔️ Deployed A Retrieval-Augmented Generation (RAG) application built using Mistral AI LLM LangChain
  ✔️ In this RAG Chatbot project users can upload their pdf for easily get the things from their pdf 
- ✔️ without need to read entire pdf they can use this application as helpful study assistant
+ ✔️ without need to read entire pdf they can use this application as helpful study assistant.
 
 ###A simple AI Chatbot built using LangChain with Mistral AI
 🔗 Live App:https://aichatbotproject-pprwxuhgapvvwn9q4jwzxw.streamlit.app/
