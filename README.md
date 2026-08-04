@@ -16,6 +16,7 @@ Hi, I'm **Gireesh Tallur**
 ## 🚀 Live Projects
 ### A RAG application built using Mistral AI,Lang chain,ChromaDB, Streamlit 
 🔗 Live App: https://rag-chatbot-by-gireesh-urlelrsctxkbrmfnbjs7gg.streamlit.app/
+
 📂 GitHub files: https://github.com/gireeshtallur7/rag-chatbot-by-gireesh
 
  ✔️ Deployed A Retrieval-Augmented Generation (RAG) application built using Mistral AI LLM LangChain
@@ -24,7 +25,9 @@ Hi, I'm **Gireesh Tallur**
 
 ###A simple AI Chatbot built using LangChain with Mistral AI
 🔗 Live App:https://aichatbotproject-pprwxuhgapvvwn9q4jwzxw.streamlit.app/
+
 📂 GitHub files:https://github.com/gireeshtallur7/AI_CHATBOT_PROJECT
+
  ✔️ Multiple chatbot modes :AI Chat Bot tells by analysing the users messeage Angry Mode,Sad Mode,Normal Mode 
  
  ✔️ Interactive chat interface ,Conversation memory
