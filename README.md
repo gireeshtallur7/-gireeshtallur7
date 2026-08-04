@@ -15,6 +15,7 @@ Hi, I'm **Gireesh Tallur**
  
 ## 🚀 Live Projects
 ### A RAG application built using Mistral AI,Lang chain,ChromaDB, Streamlit 
+
 🔗 Live App: https://rag-chatbot-by-gireesh-urlelrsctxkbrmfnbjs7gg.streamlit.app/
 
 📂 GitHub files: https://github.com/gireeshtallur7/rag-chatbot-by-gireesh
@@ -22,6 +23,19 @@ Hi, I'm **Gireesh Tallur**
  ✔️ Deployed A Retrieval-Augmented Generation (RAG) application built using Mistral AI LLM LangChain
  ✔️ In this RAG Chatbot project users can upload their pdf for easily get the things from their pdf 
  ✔️ without need to read entire pdf they can use this application as helpful study assistant.
+
+### End to ENd 🎓 Student Exam Performance Predictor AWS Deployed ML Project
+
+🔗 Live App: https://YOUR-ELASTIC-BEANSTALK-DOMAIN/predictdata
+
+📂 GitHub files: https://github.com/gireeshtallur7/Machine_learning_project
+
+ ✔️ This project is to predict a student's Mathematics score using Machine Learning techniques
+
+ ✔️ The application is built using Python, Flask, Scikit-learn, and deployed on AWS Elastic Beanstalk.
+
+ ✔️ End to End a Machine Learning web application that predicts a student's Mathematics score based on demographic and academic features
+
 
 ###A simple AI Chatbot built using LangChain with Mistral AI
 🔗 Live App:https://aichatbotproject-pprwxuhgapvvwn9q4jwzxw.streamlit.app/
@@ -40,9 +54,13 @@ Hi, I'm **Gireesh Tallur**
 📂 GitHub files: https://github.com/gireeshtallur7/telecom-churn-prediction-gireesh
 
 ✔️ Developed ML model to predict customer churn in telecom industry
+
 ✔️ Analyzes customer behavior and service usage patterns
+
 ✔️ Enables data-driven retention strategies for businesses
+
 ✔️ Deployed interactive web app using Streamlit
+
 # 💬 NLP Emotion Detection App
 
 🚀 Live Demo: [https://your-app-name.streamlit.app](https://sentiment-analysis-nlp-aiogefwwuftvpe7gfb9sjj.streamlit.app/)  
