@@ -37,7 +37,8 @@ Hi, I'm **Gireesh Tallur**
  ✔️ End to End a Machine Learning web application that predicts a student's Mathematics score based on demographic and academic features
 
 
-###A simple AI Chatbot built using LangChain with Mistral AI
+### A simple AI Chatbot built using LangChain with Mistral AI
+
 🔗 Live App:https://aichatbotproject-pprwxuhgapvvwn9q4jwzxw.streamlit.app/
 
 📂 GitHub files:https://github.com/gireeshtallur7/AI_CHATBOT_PROJECT
